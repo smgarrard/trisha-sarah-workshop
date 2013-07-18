@@ -19,3 +19,5 @@ perfection
 
 Thiiiings
 adding more stuff!
+
+git push REMOTE BRANCH
