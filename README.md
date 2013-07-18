@@ -19,12 +19,16 @@ git commit -m "thing"
 git push
 perfection
 
+thingthing?
 
 ***SPARKLES**
 
 
 Thiiiings
 adding more stuff!
+
+git branch BRANCHNAME (makes a new branch)
+git checkout BRANCHNAME (switches to new branch)
 
 git push REMOTE BRANCH
 
