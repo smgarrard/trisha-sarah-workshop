@@ -26,5 +26,8 @@ garbagegarbagegarbage
 Thiiiings
 adding more stuff!
 
+git branch BRANCHNAME (makes a new branch)
+git checkout BRANCHNAME (switches to new branch)
+
 git push REMOTE BRANCH
 
