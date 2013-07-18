@@ -2,6 +2,8 @@ trisha-sarah-workshop
 =====================
 Look I am text!
 
+ BOOOOYAH
+
 Commands we've used:
 git clone
 git status
@@ -23,4 +25,5 @@ garbagegarbagegarbage
 
 Thiiiings
 adding more stuff!
+
 
