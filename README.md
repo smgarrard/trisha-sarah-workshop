@@ -2,7 +2,7 @@ trisha-sarah-workshop
 =====================
 Look I am text!
 
- BOOOOYAH
+ BOOO
 
 Commands we've used:
 git clone
@@ -20,7 +20,7 @@ git push
 perfection
 
 
-garbagegarbagegarbage
+***SPARKLES**
 
 
 Thiiiings
