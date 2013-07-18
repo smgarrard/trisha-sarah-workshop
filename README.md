@@ -10,3 +10,5 @@ git add
 git commit -m "Message about the commit here"
 
 adding more stuff!
+
+garbagegarbagegarbage
